@@ -1,1 +1,2 @@
 # FnMut
+This is FnMut
